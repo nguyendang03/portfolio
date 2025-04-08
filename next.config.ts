@@ -1,13 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  // output: 'standalone',
   images: {
     domains: ['your-domain.com'],
   },
-  experimental: {
-    appDir: true,
-  },
-  basePath: '/portfolio',
+  // experimental: {
+  //   appDir: true,
+  // },
+  // basePath: '/portfolio',
 }
 
 module.exports = nextConfig
