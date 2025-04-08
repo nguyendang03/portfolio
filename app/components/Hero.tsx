@@ -7,7 +7,7 @@ export default function Hero() {
             <span className="block bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">Nguyen Pham Minh Dang</span>
           </h1>
           <p className="text-xl sm:text-2xl md:text-3xl font-light text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-8">
-            I'm a third year student of FPT University studying front-end engineering.
+            I&apos;m a third year student of FPT University studying front-end engineering.
           </p>
           <div className="flex justify-center space-x-4">
             <a href="#projects" className="px-6 py-3 bg-indigo-600 text-white font-medium rounded-md shadow-md hover:bg-indigo-700 transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">

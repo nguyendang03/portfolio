@@ -5,7 +5,7 @@ export default function Contact() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl sm:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 mb-6">Get In Touch</h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-              Whether you have a question or just want to say hi, I'll get back to you as soon as possible!
+              Whether you have a question or just want to say hi, I&apos;ll get back to you as soon as possible!
             </p>
             
             <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6">
